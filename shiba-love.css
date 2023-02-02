@@ -627,7 +627,7 @@ blockquote {
   height: 125%;
   border-bottom: 1px solid transparent;
   background-color: transparent;
-  background-image: url("../love-shiba.png");
+  background-image: url("assets.website-files.com/63d94886395b898bed6659c0/love-shiba.png");
   background-position: 100% 15%;
   background-size: 50%;
   background-repeat: no-repeat;
@@ -638,7 +638,7 @@ blockquote {
 
 .backgroundimage.portfolio {
   display: none;
-  background-image: url("../63d94887395b8975556659e9_jordan.png");
+  background-image: url("");
   background-position: 100% 20%;
 }
 
@@ -649,7 +649,7 @@ blockquote {
 .backgroundimage.savoirfaire {
   display: block;
   height: 63vw;
-  background-image: url("../63d94887395b8975556659e9_jordan.png");
+  background-image: url("");
   background-position: 92% 130px;
   background-size: 33%;
 }
